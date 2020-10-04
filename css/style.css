@@ -183,6 +183,7 @@ li {
 .feature-item {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 40px;  
 }
 
 .feature-image-wrapper {
